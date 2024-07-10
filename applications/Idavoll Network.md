@@ -14,7 +14,7 @@ Idavoll Network will implement idavoll court in the future, developed and mainta
 ### Project Details
 
 Idavoll Network is a decentralized organization network based on Substrate and run as a parachain on Polkadot.
-Idavoll Network has a set of pallets to achive the management of DAOs: orgnaization module, voting module, token module and finance module. By chanining these modules together, everyone can define a DAO which constrain how actions can be performed within the organization. We will give some common scenarios to explain how the idavoll pallets use predefined rules to active the standard forwarding operations.
+Idavoll Network has a set of pallets to achive the management of DAOs: orgnaization module, voting module, token module and finance module. By chaining these modules together, everyone can define a DAO which constrain how actions can be performed within the organization. We will give some common scenarios to explain how the idavoll pallets use predefined rules to active the standard forwarding operations.
 
 ![idv](https://github.com/jasonberger0/doc/blob/main/picture/idv.png?raw=true)
 

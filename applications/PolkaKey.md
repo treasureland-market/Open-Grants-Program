@@ -6,7 +6,7 @@
 
 ## Project Description :page_facing_up:
 
-When user claim their DOTs, they need a native Polkadot address. Now, there are [several ways](https://claims.polkadot.network/) to generate a Polkadot address. Polkadot.js and Polkadot.js browser plugin is less secure than using Subkey. Subkey is secure, but it is ecommended for technically advanced users who are comfortable with command line and compiling Rust code, it is not recommended for general users.
+When user claim their DOTs, they need a native Polkadot address. Now, there are [several ways](https://claims.polkadot.network/) to generate a Polkadot address. Polkadot.js and Polkadot.js browser plugin is less secure than using Subkey. Subkey is secure, but it is recommended for technically advanced users who are comfortable with command line and compiling Rust code, it is not recommended for general users.
 
 PolkaKey planned to provide a secure and simple way to generate a Polkadot address for general and technically advanced users.
 

@@ -110,5 +110,5 @@ In the energy industry, collecting energy generation/consumption and transaction
 * We were rewarded 2020 Asia Pacific Low Carbon Lifestyle Challenge Prize issued by the United Nations Environment Programme (UNEP)
 
 ## About Dipole
-Dipole Tech is a Distributed Energy Resource aggregator, providing services for the massive amount of distributed energy assets that will emerge in the future and facilitating the decarbonization of the energy system. Dipole Tech develops an independent Substrate-based blockchain which records all stages within the industry and enables interoperability from DER assets. Learn more by visiting the Dipole Tech website  or following them on Twitter.
+Dipole Tech is a Distributed Energy Resource aggregator, providing services for the massive amount of distributed energy assets that will emerge in the future and facilitating the decarbonization of the energy system. Dipole Tech develops an independent Substrate-based blockchain that records all stages within the industry and enables interoperability from DER assets. Learn more by visiting the Dipole Tech website  or following them on Twitter.
 

@@ -20,7 +20,7 @@ Maybe you are still thinking that it sounds terrible but no one can prove it. Le
 
 The Apron Network is built by the Apron Labs powered by Substrate. It provides a Cross-chain Decentralized Infrastructure Services Network that will be used by blockchain node runners, DApp developers, the public chain community, and DApp users. Every DApp developer can discover the proper service provider for a specific blockchain through the decentralized infrastructure market on the Apron Network. The Apron Network can be run as a parachain of Polkadot. 
 
-With the Apron Network,  the DApp developers can find their API endpoint, node runners can provide infrastructure services to get profit and all the infrastructure services will be decentralized on the two-layers infrastructure service network. The Apron Network will guaranty there is no infura.io accident anymore!
+With the Apron Network,  the DApp developers can find their API endpoint, node runners can provide infrastructure services to get profit and all the infrastructure services will be decentralized on the two-layers infrastructure service network. The Apron Network will guarantee there is no infura.io accident anymore!
 
 
 
