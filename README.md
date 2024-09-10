@@ -4,7 +4,7 @@
   <img src="./src/Open_Grants_Program.png" style="width:1300px";>
 </p>
 
-**:loudspeaker: Important:** The Web3 Foundation Open Grants Program focuses on technology grants up to **USD 30k for initial grants** and **USD 100k for follow-up grants**, which are tracked **transparently** on GitHub and disbursed in **bitcoin or DAI**. 
+**:loudspeaker: Important:** The [Web3 Foundation](https://web3.foundation/) Open Grants Program focuses on technology grants up to **USD 30k for initial grants** and **USD 100k for follow-up grants**, which are tracked **transparently** on GitHub and disbursed in **bitcoin or DAI**. 
 
 ---
 
