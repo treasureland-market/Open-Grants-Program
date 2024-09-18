@@ -129,7 +129,7 @@ Below is list of other grant programs in the polkadot/substrate ecosystem:
 
 * [W3F Website](https://web3.foundation)
 * [W3F Forum](https://forum.web3.foundation)
-* [W3F Twitter](https://twitter.com/web3foundation)
+* [W3F X (formerly Twitter)](https://x.com/web3foundation)
 * [W3F Medium](https://medium.com/web3foundation)
 * [Polkadot Wiki](https://wiki.polkadot.network/en/)
 * [Web 3.0 Reddit](https://www.reddit.com/r/web3)
